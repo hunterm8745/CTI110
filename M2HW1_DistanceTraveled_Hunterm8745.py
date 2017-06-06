@@ -1,4 +1,4 @@
-# A brief description of the project
+# Calculate distance traveled over time
 # 6/6/2017
 # CTI-110 M2HW1 - Distance Traveled 
 # Matthew Hunter
